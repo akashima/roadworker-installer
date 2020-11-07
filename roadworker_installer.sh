@@ -26,3 +26,5 @@ sudo yum install git make gcc libxml2-devel libxslt-devel libpcap-devel ruby-dev
 echo roadworker installing...
 gem search roadworker -r
 gem install roadworker --no-rdoc --no-ri
+
+echo end.
