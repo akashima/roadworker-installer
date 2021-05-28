@@ -13,7 +13,7 @@ echo 'eval "$(rbenv init -)"' >> ~/.zshrc
 source ~/.zshrc
 
 # rvenv specify version
-echo it installing ruby now...
+echo it installing ruby now......
 rbenv install -l
 rbenv install 2.4.3
 rbenv global 2.4.3
