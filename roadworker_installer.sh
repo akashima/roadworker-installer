@@ -27,4 +27,4 @@ echo roadworker installing...
 gem search roadworker -r
 gem install roadworker --no-rdoc --no-ri
 
-echo end.
+echo end install.
